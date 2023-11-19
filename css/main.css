@@ -40,9 +40,7 @@ a, a:focus, a:hover {
     outline: 0;
 }
 
-a:focus, a:hover {
-    color: #6CB670;
-}
+
 
 h1, h2, h3,
 h4, h5, h6 {

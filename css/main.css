@@ -2,6 +2,9 @@
 /* =================================== */
 /*	Basic Style 
 /* =================================== */
+td, th{
+  padding: 30px;
+}
 
 body {
     background-color: #fff;
@@ -166,7 +169,6 @@ body > section,
 .navbar-nav li a:focus,
 .navbar-nav li a:hover {
 	background-color: transparent;
-	border-top: 1px solid #32B0EE;
 	color: #fff;
 }
 

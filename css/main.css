@@ -6,6 +6,12 @@ td, th{
   padding: 30px;
 }
 
+img{
+  margin-top: 15px;
+  margin-right: 50px;
+  margin: 20px;
+}
+
 body {
     background-color: #fff;
     font-family: 'Open Sans', sans-serif;
